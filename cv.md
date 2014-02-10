@@ -1,0 +1,100 @@
+<!--
+pandoc -V geometry:top=1.5in -V papersize:a4paper cv.md -o cv.pdf
+--> 
+
+\pagenumbering{gobble}
+
+# Henry Cooke
+## *Technologist, developer, interaction designer.*
+### $phone_number // me@prehensile.co.uk // [\@prehensile][1]
+
+In the decade or so that I've been working in digital, I've made websites, games, 3D environments, toys and mobile apps. I've experimented with digital storytelling (resulting in a BAFTA nomination), language processing, binaural audio, Twitter bots and edge-cases of computer vision and speech recognition. I've also done a lot of design, concepting and pitching and have lead the odd technical team. Way back in the mists of time I trained in video & audio production and I'm fairly handy with a soldering iron.
+
+I speak semi-frequently about the things that I've made and the things that I've learned by making them; most often at [Dorkbot][2], but also at [This is LDNIA][3] and other events. 2014 appearances will include [Bees in a Tin][4] and [Hack Circus][5]. 
+
+I believe that a deep understanding of the affordances provided by available technology inform the best creative work. Equally, properly understanding a creative brief allows for its most effective technical implementation. 
+
+More information at [prehensile.co.uk][6] and my [Linkedin profile][7].
+
+### Skills
+Expert in Objective-C/Cocoa Touch for iOS, Python and Actionscript. Skilled in HTML/Javascript/CSS, with some C++ (mostly openFrameworks), Java & Processing. Comfortable hacking with web-facing APIs and fluent in XML, JSON, OAuth, REST etc. I know my way around a *nix command line, and frequently tinker with VPSs in various parts of The Cloud. Familiar with Arduino and basic electronics; Raspberry Pi is my new favourite thing.
+
+
+### Recent Projects
+#### [The London Bookshop Map][8]  
+A collaboration between the publishers of the Map, the artist [Dora García][9] and me. LBM have been publishing a beautiful paper map of independent bookshops for the last few years and approached me to produce an app version of the map. There's another dimension to this project though: LBM have been using the flipside of the map as a platform for the publication of specially-commissioned artworks, and we wanted to do the same with the app. I worked with Dora to create a randomised story generator based on one of her previous works.
+
+#### [The Throne at Game of Crowns][10]  
+In my role as one half of the physical/digital design studio [East London Kinetics][11], we built a 2.7m tall magical talking throne for a Christmas event at Kensington Palace. We used a combination of clever technology, careful physical design and equally careful experience design to create a seamless, spellbinding illusion which left visitors delighted (and looking for a hidden operator).
+
+\pagebreak
+
+### Employment History
+
+#### Freelance, August 2009 - present  
+
+When Flash's wave finally broke and rolled back, I followed my nose to iOS as the next platform where interesting things were afoot. I've had a stimulating few years as a freelance developer & technologist; highlights include a [BAFTA nomination][12] for [Malcolm Tucker: The Missing Phone][13], work on Björk's [Biophilia app album][14] and the construction of a [magical talking throne][10] (see above).
+I spent a good chunk of 2012 and 2013 working for [W12 Studios][15] on an extensive User Experience Design project for a major tech company. Towards the end of 2013 I worked on a few prototyping projects and founded [East London Kinetics][11] with [Tim Burrell-Saward][16].
+
+#### [Preloaded][17], December 2006 - August 2009  
+
+I moved to Preloaded in 2006 where I spent an enjoyable few years making games and online experiences. My biggest success was [Launchball][18], a physics puzzle game which has been played over 10 million times, installed at the Science Museum, projected 70ft high onto the side of the Shell building and won Best of Show at SXSWi in 2007. I left in 2009 as Technical Lead, having recruited the Flash team which would notch up further successes. During my time at Preloaded I worked on projects for clients like the BBC, Tate Modern, Bacardi, MTV and Cadbury's.
+
+#### [Tonic][19], December 2004 - December 2006  
+
+I cut my agency teeth at Tonic, my first London job. Most of my work was producing Flash microsites, and I quickly progressed through projects of increasing ambitiousness and scope. It was here that I learned to produce high-quality work under agency deadlines and when I really started to learn the craft of creative development. 
+
+#### [Codemasters][20], 2001 & 2004  
+
+I worked for Codemasters either side of my degree in their fledgling Online Marketing department, making banner ads, microsites and webgames in Director and Flash. A dream job for a kid straight out of school who liked making things with computers, and a solid base for the next few years of making digital marketing things.
+
+### Education
+#### BA (Hons) Media Production, University of Lincoln, 2001 - 2004
+
+When the time came to go to University, I'd already been writing code for a good few years and I wasn't sure how much I get from studying for a Computer Science degree. I'd enjoyed making short films and videos at GCSE & A-Level, and I felt that spending some time studying media theory would be useful in a way that English Literature would have been to earlier generations. Back in the early 2000s 'convergence' had yet to become a buzzword (and even longer until it'd be a footnote), but I had an inkling that understanding how time-based media worked would be a useful skill to go alongside the programming I already knew and was continuing to teach myself. The critical theory and production skills I learned at Lincoln have been consistently useful and evolving bits of my toolkit ever since.
+
+\pagebreak
+
+### External links
+
+* [http://www.twitter.com/prehensile][1]
+* [http://dorkbotlondon.org/][2]
+* [http://ldnia.com/][3]
+* [http://manyandvaried.org.uk/projects/bees2014/][4]
+* [http://hackcircus.com/reality/][5]
+* [http://www.prehensile.co.uk][6]
+* [http://www.linkedin.com/in/henrycooke/][7]
+* [http://prehensile.tumblr.com/post/73409885551/a-couple-of-things-i-did-at-the-end-of-last-year-part][8]
+* [http://www.doragarcia.org][9]
+* [http://elkworks.co.uk/throne][10]
+* [http://elkworks.co.uk][11]
+* [http://www.bafta.org/search.html?q=television%20cooke%20tucker&w=true][12]
+* [http://www.agant.com/app.php?appID=ttoi][13]
+* [http://en.wikipedia.org/wiki/Biophilia_(album)#App_development][14]
+* [http://www.w12studios.com][15]
+* [http://www.timburrellsaward.com/][16]
+* [http://preloaded.com/][17]
+* [http://preloaded.com/games/launchball/][18]
+* [http://www.tonic.co.uk][19]
+* [http://www.codemasters.com][20]
+
+[1]: http://www.twitter.com/prehensile
+[2]: http://dorkbotlondon.org/
+[3]: http://ldnia.com/
+[4]: http://manyandvaried.org.uk/projects/bees2014/
+[5]: http://hackcircus.com/reality/
+[6]: http://www.prehensile.co.uk
+[7]: http://www.linkedin.com/in/henrycooke/
+[8]: http://prehensile.tumblr.com/post/73409885551/a-couple-of-things-i-did-at-the-end-of-last-year-part
+[9]: http://www.doragarcia.org
+[10]: http://elkworks.co.uk/throne
+[11]: http://elkworks.co.uk
+[12]: http://www.bafta.org/search.html?q=television%20cooke%20tucker&w=true
+[13]: http://www.agant.com/app.php?appID=ttoi
+[14]: http://en.wikipedia.org/wiki/Biophilia_(album)#App_development
+[15]: http://www.w12studios.com
+[16]: http://www.timburrellsaward.com/
+[17]: http://preloaded.com/
+[18]: http://preloaded.com/games/launchball/
+[19]: http://www.tonic.co.uk
+[20]: http://www.codemasters.com
