@@ -1,12 +1,8 @@
-<!--
-pandoc -V geometry:top=1.5in -V papersize:a4paper cv.md -o cv.pdf
---> 
-
 \pagenumbering{gobble}
 
 # Henry Cooke
 ## *Technologist, developer, interaction designer.*
-### $phone_number // me@prehensile.co.uk // [\@prehensile][1]
+### skype: [prhnsl.henry][21] // me@prehensile.co.uk // [\@prehensile][1]
 
 In the decade or so that I've been working in digital, I've made websites, games, 3D environments, toys and mobile apps. I've experimented with digital storytelling (resulting in a BAFTA nomination), language processing, binaural audio, Twitter bots and edge-cases of computer vision and speech recognition. I've also done a lot of design, concepting and pitching and have lead the odd technical team. Way back in the mists of time I trained in video & audio production and I'm fairly handy with a soldering iron.
 
@@ -98,3 +94,4 @@ When the time came to go to University, I'd already been writing code for a good
 [18]: http://preloaded.com/games/launchball/
 [19]: http://www.tonic.co.uk
 [20]: http://www.codemasters.com
+[21]: skype:prhnsl.henry?call
