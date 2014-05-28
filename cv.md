@@ -4,9 +4,9 @@
 ## *Technologist, developer, interaction designer.*
 ### skype: [prhnsl.henry][21] // me@prehensile.co.uk // [\@prehensile][1]
 
-In the decade or so that I've been working in digital, I've made websites, games, 3D environments, toys and mobile apps. I've experimented with digital storytelling (resulting in a BAFTA nomination), language processing, binaural audio, Twitter bots and edge-cases of computer vision and speech recognition. I've also done a lot of design, concepting and pitching and have lead the odd technical team. Way back in the mists of time I trained in video & audio production and I'm fairly handy with a soldering iron.
+In the decade or so that I've been working in digital, I've made websites, games, 3D environments, toys and mobile apps. I've experimented with digital storytelling (resulting in a [BAFTA nomination][12]), language processing, binaural audio, Twitter bots and edge-cases of computer vision and speech recognition. I've also done a lot of design, concepting and pitching and have lead the odd technical team. Way back in the mists of time I trained in video & audio production and I'm fairly handy with a soldering iron.
 
-I speak semi-frequently about the things that I've made and the things that I've learned by making them; most often at [Dorkbot][2], but also at [This is LDNIA][3] and other events. 2014 appearances will include [Bees in a Tin][4] and [Hack Circus][5]. 
+I speak semi-frequently about the things that I've made and the things that I've learned by making them; most often at [Dorkbot][2], but also at [This is LDNIA][3] and other events. Appearances so far in 2014 have included [Bees in a Tin][4] and [Hack Circus][5]. 
 
 I believe that a deep understanding of the affordances provided by available technology inform the best creative work. Equally, properly understanding a creative brief allows for its most effective technical implementation. 
 
