@@ -30,7 +30,7 @@ In my role as one half of the physical/digital design studio [East London Kineti
 #### Freelance, August 2009 - present  
 
 When Flash's wave finally broke and rolled back, I followed my nose to iOS as the next platform where interesting things were afoot. I've had a stimulating few years as a freelance developer & technologist; highlights include a [BAFTA nomination][12] for [Malcolm Tucker: The Missing Phone][13], work on Björk's [Biophilia app album][14] and the construction of a [magical talking throne][10] (see above).
-I spent a good chunk of 2012 and 2013 working for [W12 Studios][15] on an extensive User Experience Design project for a major tech company. Towards the end of 2013 I worked on a few prototyping projects and founded [East London Kinetics][11] with [Tim Burrell-Saward][16].
+I spent a good chunk of 2012 and 2013 working for [W12 Studios][15] on an extensive User Experience Design project for a major tech company, and towards the end of 2013 I worked on a few prototyping projects and founded [East London Kinetics][11] with [Tim Burrell-Saward][16]. 2014 saw more prototyping work for [REACT][24] and [BBC R&D][25], further development of ELK and public airings at [Playful][22], [Bees in a Tin][4] and [Hack Circus][5] (as a speaker) and [The New Sublime][23] as an exhibiting artist.
 
 #### [Preloaded][17], December 2006 - August 2009  
 
@@ -97,3 +97,5 @@ When the time came to go to University, I'd already been writing code for a good
 [21]: skype:prhnsl.henry?call
 [22]: http://www.thisisplayful.com/blog/news/dreams-can-come-true
 [23]: http://www.brightondigitalfestival.co.uk/events/newsublime
+[24]: http://www.react-hub.org.uk/
+[25]: http://www.bbc.co.uk/rd
