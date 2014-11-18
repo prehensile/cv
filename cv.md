@@ -13,7 +13,7 @@ I believe that a deep understanding of the affordances provided by available tec
 More information at [prehensile.co.uk][6] and my [Linkedin profile][7].
 
 ### Skills
-Expert in Objective-C/Cocoa Touch for iOS, Python and Actionscript. Skilled in HTML/Javascript/CSS, with some C++ (mostly openFrameworks), Java & Processing. Comfortable hacking with web-facing APIs and fluent in XML, JSON, OAuth, REST etc. I know my way around a *nix command line, and frequently tinker with VPSs in various parts of The Cloud. Familiar with Arduino and basic electronics; Raspberry Pi is my new favourite thing.
+Expert in Objective-C/Cocoa Touch for iOS, Python and Actionscript. Skilled in HTML/Javascript/CSS, with some C++ (mostly openFrameworks), Java & Processing. Comfortable hacking with web-facing APIs and fluent in XML, JSON, OAuth, REST etc. I know my way around a *nix command line, and frequently tinker with VPSs in various parts of The Cloud. Familiar with Arduino and basic electronics; Raspberry Pi and Docker are my new favourite things.
 
 
 ### Recent Projects
