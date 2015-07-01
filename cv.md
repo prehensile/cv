@@ -6,7 +6,7 @@
 
 In the decade or so that I've been working in digital, I've made websites, games, 3D environments, toys and mobile apps. I've experimented with digital storytelling (resulting in a [BAFTA nomination][12]), language processing, binaural audio, Twitter bots and edge-cases of computer vision and speech recognition. I've also done a lot of design, concepting and pitching and have lead the odd technical team. Way back in the mists of time I trained in video & audio production and I'm fairly handy with a soldering iron.
 
-I speak semi-frequently about the things that I've made and the things that I've learned by making them; most often at [Dorkbot][2], but also at [This is LDNIA][3] and other events. Appearances in 2014 have included [Bees in a Tin][4], [Hack Circus][5] and [Playful][22]. In September 2014, I exhibited work at [The New Sublime][23], part of Brighton Digital Festival.
+I speak semi-frequently about the things that I've made and the things that I've learned by making them; most often at [Dorkbot][2], but also at [This is LDNIA][3] and other events. Appearances in 2014 included [Bees in a Tin][4], [Hack Circus][5] and [Playful][22]. In September 2014, I exhibited work at [The New Sublime][23], part of Brighton Digital Festival.
 
 I believe that a deep understanding of the affordances provided by available technology inform the best creative work. Equally, properly understanding a creative brief allows for its most effective technical implementation. 
 
