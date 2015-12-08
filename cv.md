@@ -4,24 +4,24 @@
 ## *Technologist, developer, interaction designer.*
 ### skype: [prhnsl.henry][21] // me@prehensile.co.uk // [\@prehensile][1]
 
-In the decade or so that I've been working in digital, I've made websites, games, 3D environments, toys and mobile apps. I've experimented with digital storytelling (resulting in a [BAFTA nomination][12]), language processing, binaural audio, Twitter bots and edge-cases of computer vision and speech recognition. I've also done a lot of design, concepting and pitching and have lead the odd technical team. Way back in the mists of time I trained in video & audio production and I'm fairly handy with a soldering iron.
+In the decade-plus that I've been working in digital, I've made websites, games, 3D environments, toys and mobile apps. I've experimented with digital storytelling (resulting in a [BAFTA nomination][12]), language processing, binaural audio, Twitter bots and edge-cases of computer vision and speech recognition. I've also done a lot of design, concepting and pitching and have lead the odd technical team. Way back in the mists of time I trained in video & audio production and I'm fairly handy with a soldering iron.
 
 I speak semi-frequently about the things that I've made and what I've learned by making them; most often at [Dorkbot][2]. Recent appearances include [Bees in a Tin][4], [Hack Circus][5] and [Playful][22]. In September 2014, I exhibited work at [The New Sublime][23], part of Brighton Digital Festival.
 
 More information at [prehensile.co.uk][6] and my [Linkedin profile][7].
 
 ### Skills
-Expert in Python, Objective-C/Cocoa Touch for iOS and Actionscript. Skilled in HTML/Javascript/CSS, with some C++ (mostly openFrameworks), Java & Processing. Comfortable hacking with web-facing APIs and fluent in XML, JSON, OAuth, REST etc. I know my way around a *nix command line, and frequently tinker with VPSs in various parts of The Cloud. Familiar with Arduino and basic electronics; Raspberry Pi and Docker are my new favourite things.
+Expert in Python, Objective-C/Cocoa Touch for iOS and Actionscript. Skilled in HTML/Javascript/CSS, with some C++ (mostly openFrameworks), Java & Processing. Comfortable hacking with web-facing APIs and fluent in XML, JSON, OAuth, REST etc. I know my way around a *nix command line, and frequently tinker with VPSs in various parts of The Cloud. Familiar with Arduino and basic electronics; Raspberry Pi, Docker and Kubernetes are my current favourite things.
 
 ### Recent Work
 #### BBC R&D
 For the last 18 months or so, I've been working in the Internet Research and Future Services department of [BBC R&D][25]. The project itself isn't yet public, but my work on it has ranged across prototyping iOS apps, helping to define a scalable cloud infrastructure for content analysis and experimentation with generation and interrogation of knowledge graphs.
 
 #### Pastcards
-A recent side-project, [Pastcards][28] is an idea that was too good to not implement. Partly a reaction to the ephemeral nature of social photos, partly a way to get nice surprises through the post. I have written in detail about the motivations for the project on [Medium][29].
+A recent side-project, [Pastcards][28] is an idea that was too good not to implement. Partly a reaction to the ephemeral nature of social photos, partly a way to get nice surprises through the post. I have written in detail about the motivations for the project on [Medium][29].
 
 ### Greatest Hits
-[Launchball][18], a game with over 10 million plays... [Malcolm Tucker: The Missing Phone][13], the first app to be nominated for a TV BAFTA... a contribution to Björk's [*Biophilia*][14], the first app to be [inducted into MoMA's permanent collection][26]... a [giant talking throne][10] for Kensington Palace... a [(very) short story generator][27] in collaboration with [Dora García][9]... a [pareidolic bot][31] which looks for almost-faces in The Cloud... consulting on creative technology for theatre companies Shunt and Coney... the [Mimeomorphs][32], a collection of Twitter bots which learn language from a human mentor... [Unintended Consequences][30], written as a talk for a conference that failed to happen.
+[Launchball][18], a game with over 10 million plays... [Malcolm Tucker: The Missing Phone][13], the first app to be nominated for a TV BAFTA... a contribution to Björk's [*Biophilia*][14], the first app to be [inducted into MoMA's permanent collection][26]... a [giant talking throne][10] for Kensington Palace... a [(very) short story generator][27] in collaboration with [Dora García][9]... a [pareidolic bot][31] which looks for almost-faces in The Cloud... consulting on creative technology for theatre companies [Nigel\ &\ Louise][36] and [Coney][37]... the [Mimeomorphs][32], a collection of Twitter bots which learn language from a human mentor... conference talks about [mysterious radio stations][35] and [empathy at scale][30].
 
 \pagebreak
 
@@ -29,8 +29,11 @@ A recent side-project, [Pastcards][28] is an idea that was too good to not imple
 
 #### Freelance, August 2009 - present  
 
-When Flash's wave finally broke and rolled back, I followed my nose to iOS as the next platform where interesting things were afoot.
-I spent a good chunk of 2012 and 2013 working for [W12 Studios][15] on an extensive User Experience Design project for a major tech company, and towards the end of 2013 I worked on a few prototyping projects and founded [East London Kinetics][11] with [Tim Burrell-Saward][16]. 2014 saw more prototyping work for [REACT][24] and [BBC R&D][25], further development of ELK and public airings at [Playful][22], [Bees in a Tin][4] and [Hack Circus][5] (as a speaker) and [The New Sublime][23] as an exhibiting artist.
+When Flash's wave finally broke and rolled back, I followed my nose to iOS as the next platform where interesting things were happening.
+
+I spent the next few years working as an iOS developer with a heavy involvement in the creative side of my projects. A good deal of this work was for [Agant][33] and [Faber][34], but there were also jobs for [Touch Press][35], smaller companies and arts organisations as well as the odd Flash job for advertising and design agencies.
+
+I spent a good chunk of 2012 and 2013 working for [W12 Studios][15] on an extensive user experience design project for a major tech company, and towards the end of 2013 I worked on a few prototyping projects and founded [East London Kinetics][11] with [Tim Burrell-Saward][16]. 2014 saw more prototyping work for [REACT][24] and [BBC R&D][25], further development of ELK and public airings at [Playful][22], [Bees in a Tin][4] and [Hack Circus][5] (as a speaker) and [The New Sublime][23] as an exhibiting artist.
 
 #### [Preloaded][17], December 2006 - August 2009  
 
@@ -48,8 +51,6 @@ I worked for Codemasters either side of my degree in their fledgling Online Mark
 #### BA (Hons) Media Production, University of Lincoln, 2001 - 2004
 
 When the time came to go to University, I'd already been writing code for a good few years and I wasn't sure how much I get from studying for a Computer Science degree. I'd enjoyed making short films and videos at GCSE & A-Level, and I felt that spending some time studying media theory would be useful in a screen-based culture in a way that English Literature would have been in a print-based culture. Back in the early 2000s 'convergence' had yet to become a buzzword (and even longer until it'd be a footnote), but I had an inkling that understanding how time-based media worked would be a useful skill to go alongside the programming I already knew and was continuing to teach myself. The critical theory and production skills I learned at Lincoln have been consistently useful and evolving bits of my toolkit ever since.
-
-\pagebreak
 
 [1]: http://www.twitter.com/prehensile
 [2]: http://dorkbotlondon.org/
@@ -83,3 +84,8 @@ When the time came to go to University, I'd already been writing code for a good
 [30]: https://medium.com/@prehensile/unintended-consequences-b2e23a9d0ba3
 [31]: http://facesinthecloud.tumblr.com/
 [32]: https://twitter.com/prehensile/lists/mimeomorphs
+[33]: http://www.agant.com
+[34]: http://www.faber.co.uk/
+[35]: https://vimeo.com/113088352
+[36]: http://www.nigelandlouise.com/web/
+[37]: http://coneyhq.org/
