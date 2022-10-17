@@ -1,12 +1,16 @@
 \pagenumbering{gobble}
 
 # Henry Cooke
-## *Technologist, developer, interaction designer.*
-### skype: [prhnsl.henry][21] // me@prehensile.co.uk // [\@prehensile][1]
+### me@prehensile.co.uk // [\@prehensile][1]
+## *Creative technologist, team lead, researcher.*
 
-In the decade-plus that I've been working in digital, I've made websites, games, 3D environments, toys and mobile apps. I've experimented with digital storytelling (resulting in a [BAFTA nomination][12]), language processing, binaural audio, Twitter bots and edge-cases of computer vision and speech recognition. I've also done a lot of design, concepting and pitching and have lead the odd technical team. Way back in the mists of time I trained in video & audio production and I'm fairly handy with a soldering iron.
+*Tinkerer. Prototyper. Committed generalist. Glue person. Facilitator. Artistic collaborator. Data science lab assistant. Part-time futurist.*
 
-I speak semi-frequently about the things that I've made and what I've learned by making them; most often at [Dorkbot][2]. Recent appearances include [Bees in a Tin][4], [Hack Circus][5] and [Playful][22]. In September 2014, I exhibited work at [The New Sublime][23], part of Brighton Digital Festival.
+In over 20 years working in creative technology I've made websites, games, 3D environments, toys, mobile and desktop apps, interactive stories, electronics, art installations, many prototypes in and between software and hardware, and in one memorable case building a giant talking throne for a Christmas event in a Royal Palace. I've experimented with digital storytelling (resulting in a [BAFTA nomination][12]), language processing, binaural audio, natural language bots, machine learning and edge-cases of speech recognition and computer vision.
+
+I have led successful teams both technical and cross-disciplinary (more fun). I've done a lot of design, concepting and pitching and I am trained in video & audio production. I'm fairly handy with a soldering iron.
+
+Expert in Python and highly skilled in JavaScript, both client and server-side. Experienced with HTML/CSS, with some C++ (mostly openFrameworks), Java, Processing and C#. I can generally pick up whatever stack is most useful for the job at hand. Former iOS and Flash developer. Happy hacking with web-facing APIs and fluent in JSON, XML, OAuth, REST etc. I know my way around a *nix command line, and frequently tinker with VPSs in various parts of The Cloud. Frequent user of Raspberry Pi, comfortable with Arduino and intermediate electronics. 
 
 More information at [prehensile.co.uk][6] and my [Linkedin profile][7].
 
