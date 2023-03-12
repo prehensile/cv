@@ -11,3 +11,5 @@ COPY Makefile /
 RUN sed -i 's/sudo //g' ./Makefile 
 
 RUN make dependencies
+
+CMD cd home && make pdf

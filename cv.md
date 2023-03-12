@@ -1,35 +1,40 @@
-\pagenumbering{gobble}
+---
+geometry: top=1.5in
+papersize:  a4paper
+header-includes:
+    - \usepackage{parskip}
+    - \setlength{\parskip}{.8\baselineskip plus 2pt}
+    - \pagenumbering{gobble}
+---
 
 # Henry Cooke
 ### me@prehensile.co.uk // [\@prehensile][1]
 ## *Creative technologist, team lead, researcher.*
 
-*Glue person, facilitator. Tinkerer, prototyper, committed generalist.*
-*Artistic collaborator and occasional festival programmer.*
-*Data science lab assistant. Part-time futurist.*
+*Glue person, facilitator. Tinkerer, prototyper, committed generalist. Artistic collaborator & \linebreak occasional festival programmer. Data science lab assistant. Part-time futurist.*
 
 In over two decades working in creative technology, I've made websites, games, 3D environments, toys, mobile and desktop apps, interactive stories, electronics, art installations, many prototypes in and between software and hardware, and in one memorable case building a giant talking throne for a Christmas event in a Royal Palace. I've experimented with digital storytelling (resulting in the first iPhone app to earn a TV BAFTA nomination), language processing, binaural audio, natural language bots, machine learning and edge-cases of speech recognition and computer vision.
 
-I have led successful teams both technical and cross-disciplinary - the latter is where my heart is. I've done a lot of design, concepting and pitching and I am trained in video & audio production.
+I have led successful teams both technical and cross-disciplinary - the latter is where my heart is. I've done a lot of design, ideation, concepting and pitching and I am trained in video & audio production.
 
 Recent research and prototyping projects have centered around voice-interactive media for smart speakers and audio AR, and I'm currently working in futures and foresight.
 
 More information at [prehensile.co.uk][6] and my [Linkedin profile][7].
 
-### Skills
-Expert in __Python__ and productive in __JavaScript__, both client and server-side. Experienced with __HTML/CSS__, with some __C++__ (mostly openFrameworks), __Java__, __Processing__ and __C#__. I can generally pick up whatever stack is most useful for the job at hand. Former __iOS__ and __Flash__ developer. Happy hacking with web-facing APIs and fluent in __JSON__, __XML__, __OAuth__, __REST__ etc. I know my way around a __*nix__ command line, and frequently tinker with VPSs in various parts of The Cloud. Regularly work with __Raspberry Pi__, comfortable with __Arduino__ and intermediate electronics. I'm competent with a soldering iron and I am trained in video & audio production.
+### Technical Skills
+Expert in __Python__ and productive in __JavaScript__, both client and server-side. Experienced with __HTML/CSS__, with some __C++__ (mostly openFrameworks), __Java__, __Processing__ and __C#__. I can generally pick up whatever stack is most useful for the job at hand. Former __iOS__ and __Flash__ developer. Happy hacking with HTTP APIs and fluent in __JSON__, __XML__, __OAuth__, __REST__ etc. I know my way around a **nix* command line, and frequently tinker with VPSs in various parts of The Cloud. Regularly work with __Raspberry Pi__, comfortable with __Arduino__ and intermediate electronics. I'm competent with a soldering iron and I am trained in video & audio production.
 
 ### Recent Work
 #### BBC R&D
-For the last 18 months or so, I've been working in the Internet Research and Future Services department of [BBC R&D][25]. The project itself isn't yet public, but my work on it has ranged across prototyping iOS apps, helping to define a scalable cloud infrastructure for content analysis and experimentation with generation and interrogation of knowledge graphs.
+I've been working at BBC R&D as a producer, creative technologist and researcher since 2016. In that time, I've scoped out emerging media technologies, designed and led prototyping projects, written and spoken extensively about those projects. I've also contributed to projects around the department as a creative technologist, and co-authored research papers with academic partners. Key projects include [Talking with Machines](), [The Inspection Chamber](), [Audio AR](), [Looking For Nigel](), 
 
-#### Pastcards
-A recent side-project, [Pastcards][28] is an idea that was too good not to implement. Partly a reaction to the ephemeral nature of social photos, partly a way to get nice surprises through the post. I have written in detail about the motivations for the project on [Medium][29].
-
-### Greatest Hits
-[Launchball][18], a game with over 10 million plays... [Malcolm Tucker: The Missing Phone][13], the first app to be nominated for a TV BAFTA... a contribution to Björk's [*Biophilia*][14], the first app to be [inducted into MoMA's permanent collection][26]... a [giant talking throne][10] for Kensington Palace... a [(very) short story generator][27] in collaboration with [Dora García][9]... a [pareidolic bot][31] which looks for almost-faces in The Cloud... consulting on creative technology for theatre companies [Nigel\ &\ Louise][36] and [Coney][37]... the [Mimeomorphs][32], a collection of Twitter bots which learn language from a human mentor... conference talks about [mysterious radio stations][35] and [empathy at scale][30].
+#### Electromagnetic Field
+Lorem ipsum.
 
 \pagebreak
+
+### Greatest Hits
+[Launchball][18], a game with over 10 million plays... [Malcolm Tucker: The Missing Phone][13], the first app to be nominated for a TV BAFTA... a contribution to Björk's [*Biophilia*][14], the first app to be [inducted into MoMA's permanent collection][26]... a [giant talking throne][10] for Kensington Palace... a [(very) short story generator][27] in collaboration with [Dora García][9]... a [pareidolic bot][31] which looks for almost-faces in The Cloud... consulting on creative technology for theatre companies [Nigel\ &\ Louise][36] and [Coney][37]... the [Mimeomorphs][32], a collection of Twitter bots which learn language from a human mentor... conference talks about [mysterious radio stations][35] and [empathy at scale][30]. __ADD PASTCARDS__
 
 ### Employment History
 
@@ -43,7 +48,7 @@ I spent a good chunk of 2012 and 2013 working for [W12 Studios][15] on an extens
 
 #### [Preloaded][17], December 2006 - August 2009  
 
-I moved to Preloaded in 2006 where I spent an enjoyable few years making games and online experiences. My biggest success was [Launchball][18], a physics puzzle game which has been played over 10 million times, installed at the Science Museum, projected 70ft high onto the side of the Shell building and won Best of Show at SXSWi in 2007. I left in 2009 as Technical Lead, having recruited the Flash team which would notch up further successes. During my time at Preloaded I worked on projects for clients like the BBC, Tate Modern, Bacardi, MTV and Cadbury's.
+I moved to Preloaded in 2006 where I spent an enjoyable few years building games and online experiences in Flash. My biggest success was [Launchball][18], a physics puzzle game which has been played over 10 million times, installed at the Science Museum, projected 70ft high onto the side of the Shell building and won Best of Show at SXSWi in 2007. I left in 2009 as Technical Lead, having recruited a Flash team which would notch up further successes. During my time at Preloaded I worked on projects for clients like the BBC, Tate Modern, Bacardi, MTV and Cadbury's.
 
 #### [Tonic][19], December 2004 - December 2006  
 
