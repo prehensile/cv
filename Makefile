@@ -4,4 +4,4 @@ pdf: cv.md
 	bash -c "pandoc -V geometry:top=1.5in -V papersize:a4paper cv.md -o cv.pdf"
 
 dependencies:
-	sudo apt install pandoc texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra
+	sudo apt install -y pandoc texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra
