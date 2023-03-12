@@ -4,18 +4,20 @@
 ### me@prehensile.co.uk // [\@prehensile][1]
 ## *Creative technologist, team lead, researcher.*
 
-*Tinkerer. Prototyper. Committed generalist. Glue person. Facilitator. Artistic collaborator. Data science lab assistant. Part-time futurist.*
+*Glue person, facilitator. Tinkerer, prototyper, committed generalist.*
+*Artistic collaborator and occasional festival programmer.*
+*Data science lab assistant. Part-time futurist.*
 
-In over 20 years working in creative technology I've made websites, games, 3D environments, toys, mobile and desktop apps, interactive stories, electronics, art installations, many prototypes in and between software and hardware, and in one memorable case building a giant talking throne for a Christmas event in a Royal Palace. I've experimented with digital storytelling (resulting in a [BAFTA nomination][12]), language processing, binaural audio, natural language bots, machine learning and edge-cases of speech recognition and computer vision.
+In over two decades working in creative technology, I've made websites, games, 3D environments, toys, mobile and desktop apps, interactive stories, electronics, art installations, many prototypes in and between software and hardware, and in one memorable case building a giant talking throne for a Christmas event in a Royal Palace. I've experimented with digital storytelling (resulting in the first iPhone app to earn a TV BAFTA nomination), language processing, binaural audio, natural language bots, machine learning and edge-cases of speech recognition and computer vision.
 
-I have led successful teams both technical and cross-disciplinary (more fun). I've done a lot of design, concepting and pitching and I am trained in video & audio production. I'm fairly handy with a soldering iron.
+I have led successful teams both technical and cross-disciplinary - the latter is where my heart is. I've done a lot of design, concepting and pitching and I am trained in video & audio production.
 
-Expert in Python and highly skilled in JavaScript, both client and server-side. Experienced with HTML/CSS, with some C++ (mostly openFrameworks), Java, Processing and C#. I can generally pick up whatever stack is most useful for the job at hand. Former iOS and Flash developer. Happy hacking with web-facing APIs and fluent in JSON, XML, OAuth, REST etc. I know my way around a *nix command line, and frequently tinker with VPSs in various parts of The Cloud. Frequent user of Raspberry Pi, comfortable with Arduino and intermediate electronics. 
+Recent research and prototyping projects have centered around voice-interactive media for smart speakers and audio AR, and I'm currently working in futures and foresight.
 
 More information at [prehensile.co.uk][6] and my [Linkedin profile][7].
 
 ### Skills
-Expert in Python, Objective-C/Cocoa Touch for iOS and Actionscript. Skilled in HTML/Javascript/CSS, with some C++ (mostly openFrameworks), Java & Processing. Comfortable hacking with web-facing APIs and fluent in XML, JSON, OAuth, REST etc. I know my way around a *nix command line, and frequently tinker with VPSs in various parts of The Cloud. Familiar with Arduino and basic electronics; Raspberry Pi, Docker and Kubernetes are my current favourite things.
+Expert in __Python__ and productive in __JavaScript__, both client and server-side. Experienced with __HTML/CSS__, with some __C++__ (mostly openFrameworks), __Java__, __Processing__ and __C#__. I can generally pick up whatever stack is most useful for the job at hand. Former __iOS__ and __Flash__ developer. Happy hacking with web-facing APIs and fluent in __JSON__, __XML__, __OAuth__, __REST__ etc. I know my way around a __*nix__ command line, and frequently tinker with VPSs in various parts of The Cloud. Regularly work with __Raspberry Pi__, comfortable with __Arduino__ and intermediate electronics. I'm competent with a soldering iron and I am trained in video & audio production.
 
 ### Recent Work
 #### BBC R&D
