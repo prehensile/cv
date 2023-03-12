@@ -1,9 +1,6 @@
 ---
-geometry: top=1.5in
 papersize:  a4paper
 header-includes:
-    - \usepackage{parskip}
-    - \setlength{\parskip}{.8\baselineskip plus 2pt}
     - \pagenumbering{gobble}
 ---
 
@@ -22,14 +19,14 @@ Recent research and prototyping projects have centered around voice-interactive 
 More information at [prehensile.co.uk][6] and my [Linkedin profile][7].
 
 ### Technical Skills
-Expert in __Python__ and productive in __JavaScript__, both client and server-side. Experienced with __HTML/CSS__, with some __C++__ (mostly openFrameworks), __Java__, __Processing__ and __C#__. I can generally pick up whatever stack is most useful for the job at hand. Former __iOS__ and __Flash__ developer. Happy hacking with HTTP APIs and fluent in __JSON__, __XML__, __OAuth__, __REST__ etc. I know my way around a **nix* command line, and frequently tinker with VPSs in various parts of The Cloud. Regularly work with __Raspberry Pi__, comfortable with __Arduino__ and intermediate electronics. I'm competent with a soldering iron and I am trained in video & audio production.
+Expert in __Python__ and productive in __JavaScript__, both client and server-side. Experienced with __HTML/CSS__, with some __C++__ (mostly openFrameworks), __Java__, __Processing__ and __C#__. I can generally pick up whatever stack is most useful for the job at hand. Former __iOS__ and __Flash__ developer. Happy hacking with HTTP APIs and fluent in __JSON__, __XML__, __OAuth__, __REST__ etc. I know my way around a **nix* command line, and frequently tinker with VPSs in various parts of The Cloud. Regularly work with __Raspberry Pi__, comfortable with __Arduino__ and intermediate electronics. I'm competent with a soldering iron. Video & audio production.
 
 ### Recent Work
 #### BBC R&D
-I've been working at BBC R&D as a producer, creative technologist and researcher since 2016. In that time, I've scoped out emerging media technologies, designed and led prototyping projects, written and spoken extensively about those projects. I've also contributed to projects around the department as a creative technologist, and co-authored research papers with academic partners. Key projects include [Talking with Machines](), [The Inspection Chamber](), [Audio AR](), [Looking For Nigel](), 
+I've been working at BBC R&D as a producer, creative technologist and researcher since 2016. In that time, I've scoped out emerging media technologies, performed exploratory prototyping work, designed and led projects, and written and spoken extensively about those projects. I've also contributed around the department as a creative technologist, and co-authored research papers with academic partners. Key projects include [Talking with Machines](), [The Inspection Chamber](), [Audio AR](), [Looking For Nigel](), 
 
 #### Electromagnetic Field
-Lorem ipsum.
+I've been Team Lead for Art & Installations at Electromagnetic Field since 2020. Responsibilities included running and recruiting to the team, artist scouting and outreach, coordinating an Arts Council funding bid, curation, artist comms, and helping to set up and maintain installations and look after the artists during the festival.
 
 \pagebreak
 
@@ -42,9 +39,9 @@ Lorem ipsum.
 
 When Flash's wave finally broke and rolled back, I followed my nose to iOS as the next platform where interesting things were happening.
 
-I spent the next few years working as an iOS developer with a heavy involvement in the creative side of my projects. A good deal of this work was for [Agant][33] and [Faber][34], but there were also jobs for [Touch Press][35], smaller companies and arts organisations as well as the odd Flash job for advertising and design agencies.
+I spent the next few years working as an iOS developer with a heavy involvement in the creative side of my projects. A good deal of this work was for [Agant][33] and [Faber][34], but there were also jobs for [Touch Press][35] and smaller companies and arts organisations.
 
-I spent a good chunk of 2012 and 2013 working for [W12 Studios][15] on an extensive user experience design project for a major tech company, and towards the end of 2013 I worked on a few prototyping projects and founded [East London Kinetics][11] with [Tim Burrell-Saward][16]. 2014 saw more prototyping work for [REACT][24] and [BBC R&D][25], further development of ELK and public airings at [Playful][22], [Bees in a Tin][4] and [Hack Circus][5] (as a speaker) and [The New Sublime][23] as an exhibiting artist.
+I worked for [W12 Studios][15] in 2012 and 2013 on an extensive user experience design project for a major tech company, and towards the end of 2013 I worked on a few prototyping projects and founded [East London Kinetics][11] with [Tim Burrell-Saward][16]. 2014 saw more prototyping work for [REACT][24] and [BBC R&D][25], further development of ELK and public airings at [Playful][22], [Bees in a Tin][4] and [Hack Circus][5] (as a speaker) and [The New Sublime][23] as an exhibiting artist.
 
 #### [Preloaded][17], December 2006 - August 2009  
 
