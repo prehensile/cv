@@ -1,0 +1,22 @@
+.markdown-body h4 {
+    margin-top: 0;
+}
+
+.markdown-body h3 {
+    margin-bottom: 0;
+}
+
+.markdown-body p {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+hr {
+    visibility: hidden;
+    break-after: page;
+    page-break-after: always
+}
+
+@page {
+    margin: 24pt auto;
+}
