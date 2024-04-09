@@ -1,10 +1,10 @@
 # Henry Cooke   
 
-## Team lead, researcher, creative technologist
+## Team lead, researcher, creative technologist.
 
-### Glue person, consensus-builder, facilitator. Tinkerer, prototyper, committed generalist. Emerging futurist. Data science lab assistant.
+### Glue person, consensus-builder, facilitator. Tinkerer, prototyper, committed generalist. Emerging futurist. Data science lab assistant. AI whisperer.
 
-In over two decades working in creative technology, I've developed a good nose for emerging technologies and how they might be put to use by creators and the public.
+In over two decades working in creative technology, I've developed a good nose for emerging technologies and how they might be put to use by professionals and the public.
 
 I've made websites, games, 3D environments, toys, mobile and desktop apps, interactive stories, electronics, art installations, many prototypes in and between software and hardware, and in one memorable case building a giant talking throne for a Christmas event in a Royal Palace. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision.
 
