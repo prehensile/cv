@@ -47,11 +47,11 @@ As a researcher, I've [published](https://www.semanticscholar.org/author/Henry-C
 ### The Freelance Years
 #### 2008 — 2016
 
-In 2008, I was getting restless at Preloaded and my instincts were leading me to the iPhone as the next platform where interesting creative work was happening. Over the next few years I worked on freelance projects as a creative technologist in Flash and iOS, including the [first app to be nominated for a TV BAFTA](https://www.telegraph.co.uk/technology/mobile-phones/8475033/Malcolm-Tucker-iPhone-app-nominated-for-Bafta.html) and Björk's _Biophilia_ '[app album](https://en.wikipedia.org/wiki/Biophilia_(album)#App)'.
+In 2008, my instincts were leading me to the iPhone as the next platform where interesting creative work was happening. Over the next few years I worked on freelance projects as a creative technologist in Flash and iOS, including the [first app to be nominated for a TV BAFTA](https://www.telegraph.co.uk/technology/mobile-phones/8475033/Malcolm-Tucker-iPhone-app-nominated-for-Bafta.html) and Björk's _Biophilia_ '[app album](https://en.wikipedia.org/wiki/Biophilia_(album)#App)'.
 
 This time was also marked by artistic collaborations. Highlights include work with [Dora Garcia](https://twentythreemillionstories.org/) and [Crystal Bennes](https://www.crystalbennes.com/portfolio/when-computers-were-women/), and experimental theatre projects leading to [The Body](https://nigelandlouise.com/The-Body) at the Barbican in 2015 — "[a seat-shaking, soul-searching techno-futurist experience](https://www.theguardian.com/stage/2015/nov/22/the-body-review-barbican)" which won that year's Oxford Samuel Beckett Theatre Trust Award.
 
-Sometimes these threads come together. In 2013, I collaborated on [a magical talking throne](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace. In 2019, I worked with legendary immersive theatre company Punchdrunk to [investigate technologies](https://motherultimate.com/projects/theatre) for keeping track of audience members and creating personalised moments during a show.
+Sometimes these threads come together. In 2013, I collaborated on [a magical talking throne](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace. In 2019, I [investigated technologies](https://motherultimate.com/projects/theatre) to track audiences and create personalised moments during a show with legendary immersive theatre company Punchdrunk.
 
 ### The Design Agency Years
 #### 2004 — 2018
@@ -64,6 +64,6 @@ Highlights include [Launchball](https://preloaded.com/work/launchball/) which ev
 ### BA (Hons) Media Production, University of Lincoln
 #### 2001 — 2004
 
-I was already a pretty good coder by the time I left school, and wasn't sure how much I'd get out of a Computer Science degree. I was enjoying making short films and videos, and had an inkling that understanding how traditional media worked would be a useful skill to go alongside the programming I already knew and was continuing to teach myself. This wasn't anywhere near as obvious in the early 2000s as it is now, but it turned out to be a good bet.
+I was already a pretty good coder by the time I left school, and wasn't sure how much I'd get out of a Computer Science degree. I was enjoying making short films and videos, and had an inkling that understanding how traditional media worked would be a useful skill to go alongside the programming I already knew.
 
 The critical theory and production skills I learned at Lincoln have been consistently useful and evolving bits of my toolkit ever since.
