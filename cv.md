@@ -45,4 +45,7 @@ The freedom afforded as a freelancer meant that I also got involved in a number 
 
 I started my Lonodn agency career at Tonic (now defunct) in 2004, where I made Flash microsites. I moved on to Preloaded in 2004, where I continued to build Flash experiences and games. I really learned the craft of creative software development during these years; highlights include Launchball which eventually racked over 10 million plays, and won a slew of awards including Best in Show and Best Game at SXSWi 2008 and Technical Excellence at Flash in the Can.   
 
+## Education
+### BA (Hons) Media Production, University of Lincoln, 2001 - 2004
 
+When the time came to go to University, I'd already been writing code for a good few years and I wasn't sure how much I get from studying for a Computer Science degree. I'd enjoyed making short films and videos at GCSE & A-Level, and I felt that spending some time studying media theory would be useful in a screen-based culture in a way that English Literature would have been in a print-based culture. Back in the early 2000s 'convergence' had yet to become a buzzword (and even longer until it'd be a footnote), but I had an inkling that understanding how time-based media worked would be a useful skill to go alongside the programming I already knew and was continuing to teach myself. The critical theory and production skills I learned at Lincoln have been consistently useful and evolving bits of my toolkit ever since.
