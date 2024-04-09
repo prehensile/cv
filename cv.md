@@ -36,5 +36,13 @@ I started at BBC R&D in 2016 as a freelance iOS developer, prototyping...
 ### The Freelance Years
 #### 2008 - 2016
 
+I began my freelance career in 2008. I was getting restless at Preloaded; my instincts were leading me to the iPhone as the next platform where interesting creative work was happening. There then followed... 
+
+The freedom afforded as a freelancer meant that I also got involved in a number of art projects...
+
 ### The Agency Years
 #### 2004 - 2018
+
+I started my Lonodn agency career at Tonic (now defunct) in 2004, where I made Flash microsites. I moved on to Preloaded in 2004, where I continued to build Flash experiences and games. I really learned the craft of creative software development during these years; highlights include Launchball which eventually racked over 10 million plays, and won a slew of awards including Best in Show and Best Game at SXSWi 2008 and Technical Excellence at Flash in the Can.   
+
+
