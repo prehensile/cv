@@ -10,7 +10,7 @@ I've made websites, games, 3D environments, toys, mobile and desktop apps, inter
 
 I have led successful teams both technical and cross-disciplinary — the latter is where my heart is. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
 
-## Leadership skills
+## Professional skills
 
 Skilled facilitator and workshop leader. Empathetic communicator and consensus-builder. [Glue person](https://www.linkedin.com/pulse/glue-people-one-most-desired-job-market-enza-artino/). Adept at communicating with creative, management, and engineering staff on their own terms and fostering communication between disciplines. Engaging public speaker and precise and thoughtful writer.
 
@@ -22,5 +22,7 @@ I can generally pick up whatever stack is most useful for the job at hand.
 
 Former iOS and Flash developer. Happy hacking with web-facing APIs and fluent in JSON, XML, OAuth, REST etc. I know my way around a *nix command line, and frequently tinker with VPSs in various parts of The Cloud. Familiar with AWS, Azure, Heroku, and fly.io. Regularly work with Raspberry Pi, comfortable with Arduino and intermediate electronics. I'm competent with a soldering iron.
 
-I've recently been experimenting with open-source large lanaguage models as co-pilots for research tasks, and have been getting a feel for generative visual AI via Stable Diffusion and ComfyUI.
+I've recently been experimenting with open-source large lanaguage models (LLMs) as co-pilots for research tasks, and have been getting a feel for generative visual AI via Stable Diffusion and ComfyUI.
+
+
 
