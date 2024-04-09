@@ -24,3 +24,15 @@ Former iOS and Flash developer. Happy hacking with web-facing APIs and fluent in
 
 I've recently been experimenting with open-source large lanaguage models as co-pilots for research tasks, and have been getting a feel for generative visual AI via Stable Diffusion and ComfyUI.
 
+## Career history
+
+### The BBC Research & Development Years
+#### 2016 - today
+
+I started at BBC R&D in 2016 as a freelance iOS developer, prototyping...
+
+### The Freelance Years
+#### 2008 - 2016
+
+### The Agency Years
+#### 2004 - 2018
