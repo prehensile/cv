@@ -26,3 +26,15 @@ I've recently been experimenting with open-source large lanaguage models (LLMs) 
 
 
 
+## Career history
+
+### The BBC Research & Development Years
+#### 2016 - today
+
+I started at BBC R&D in 2016 as a freelance iOS developer, prototyping...
+
+### The Freelance Years
+#### 2008 - 2016
+
+### The Agency Years
+#### 2004 - 2018
