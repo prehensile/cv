@@ -10,10 +10,9 @@
 
 In over two decades working in creative technology, I've developed a good nose for emerging technologies and their potential for professionals and the public.
 
-I have led successful teams both technical and cross-disciplinary — the latter is where my heart is. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
+I have led successful teams both technical and cross-disciplinary. The latter is where my heart is. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
 
 I've created websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. In one memorable case, I built a giant talking throne for a Christmas event in a Royal Palace. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision.
-
 
 ## Professional skills
 
@@ -43,7 +42,7 @@ As a producer, I've designed and led prototyping projects to explore emerging in
 
 As a technologist, I've built prototypes on [my own and other projects](https://www.bbc.co.uk/rd/people/henry-cooke?Type=Projects&Decade=All) to get a practitioner's feel for technologies and their possibilities.
 
-As a researcher, I've [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating the findings of our projects, and I've recently been [building](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures) a practise in futures and [foresight](https://www.bbc.co.uk/rd/blog/2023-10-projections-things-are-not-normal) based on long-standing research interests.
+As a researcher, I've [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating the findings of our projects, and I've recently been [building](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures) a practice in futures and foresight based on long-standing research interests. At the end of 2023, we published an extensive and very well-received [foresight report](https://www.bbc.co.uk/rd/blog/2023-10-projections-things-are-not-normal).
 
 ### The Freelance Years
 #### 2008 — 2016 (or so)
@@ -52,7 +51,7 @@ In 2008, my instincts were leading me to the iPhone as the next platform where i
 
 This time was also marked by artistic collaborations. Highlights include work with [Dora Garcia](https://twentythreemillionstories.org/) and [Crystal Bennes](https://www.crystalbennes.com/portfolio/when-computers-were-women/), and experimental theatre projects leading to [The Body](https://nigelandlouise.com/The-Body) at the Barbican in 2015 — "[a seat-shaking, soul-searching techno-futurist experience](https://www.theguardian.com/stage/2015/nov/22/the-body-review-barbican)" which won that year's Oxford Samuel Beckett Theatre Trust Award.
 
-Sometimes these threads come together. In 2013, I collaborated on [a magical talking tahrone](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace. In 2019, I [investigated technologies](https://motherultimate.com/projects/theatre) to track audiences and create personalised moments during a show with legendary immersive theatre company Punchdrunk.
+Sometimes these threads come together. In 2013, I collaborated on [a magical talking throne](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace. In 2019, I [worked with](https://motherultimate.com/projects/theatre) legendary immersive theatre company Punchdrunk to investigate technologies for tracking audiences and creating personalised moments during a show.
 
 ### The Design Agency Years
 #### 2004 — 2008
