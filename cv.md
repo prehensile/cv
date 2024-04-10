@@ -1,10 +1,9 @@
 # Henry Cooke   
+me@prehensile.co.uk
 
 ## Team lead, researcher, creative technologist.
 
-me@prehensile.co.uk
-
-### Glue person, consensus-builder, facilitator. Tinkerer, prototyper, committed generalist. Emerging futurist. Data science lab assistant. AI whisperer.
+#### Glue person, consensus-builder, facilitator. Tinkerer, prototyper, committed generalist. Emerging futurist. Data science lab assistant. AI whisperer.
 
 In over two decades working in creative technology, I've developed a good nose for emerging technologies and how they might be put to use by professionals and the public.
 
@@ -14,7 +13,7 @@ I have led successful teams both technical and cross-disciplinary — the latter
 
 ## Professional skills
 
-Skilled facilitator and workshop leader. Empathetic communicator and consensus-builder. [Glue person](https://www.linkedin.com/pulse/glue-people-one-most-desired-job-market-enza-artino/). Adept at communicating with creative, management, and engineering staff on their own terms and fostering communication between disciplines. Engaging public speaker and precise and thoughtful writer.
+Skilled facilitator and workshop leader. Empathetic communicator and consensus-builder. [Glue person](https://www.linkedin.com/pulse/glue-people-one-most-desired-job-market-enza-artino/). Adept at communicating with creative, management, and engineering staff on their own terms and fostering communication between disciplines. Engaging public speaker and precise and thoughtful writer. Trained agile project manager, product owner, and mental health first aider.
 
 ## Technical skills
 
@@ -30,7 +29,7 @@ I've recently been experimenting with open-source large lanaguage models (LLMs) 
 
 ## Career history
 
-An extensive overview of my career and projects is available at
+An overview of my career and selected projects is available at
 [prehensile.co.uk/timeline](https://prehensile.co.uk/timeline/)
 
 ### The BBC Research & Development Years
