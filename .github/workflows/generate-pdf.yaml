@@ -1,0 +1,15 @@
+name: generate-pdf
+on: [push]
+jobs:
+  build:
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+      - run: npm ci
+      - run: npm run build
+      - name: Archive generated PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-pdf
+          path: cv.pdf
