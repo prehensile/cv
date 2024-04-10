@@ -57,7 +57,7 @@ Sometimes these threads come together. In 2013, I collaborated on [a magical tal
 ### The Design Agency Years
 #### 2004 — 2008
 
-I started my London agency career at Tonic (now defunct) in 2004, where I made Flash microsites. I moved on to [Preloaded](https://www.preloaded.com) in 2008, where I continued to build Flash experiences and games. I learned the craft of creative software development during these years, and gained an education in agency-standard visual design.
+I started my London agency career at Tonic (now defunct) in 2004, where I made Flash microsites. I moved on to [Preloaded](https://www.preloaded.com) in 2006, where I continued to build Flash experiences and games. I learned the craft of creative software development during these years, and gained an education in agency-standard visual design.
 
 Highlights include [Launchball](https://preloaded.com/work/launchball/), which racked up over 10 million plays and won a slew of awards — including, in 2008, Best in Show and Best Game at SXSWi and Technical Excellence at Flash in the Can.   
 
