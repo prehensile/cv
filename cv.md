@@ -13,7 +13,7 @@ I have led successful teams both technical and cross-disciplinary — the latter
 
 ## Professional skills
 
-Skilled facilitator and workshop leader. Empathetic communicator and consensus-builder. [Glue person](https://www.linkedin.com/pulse/glue-people-one-most-desired-job-market-enza-artino/). Adept at communicating with creative, management, and engineering staff on their own terms and fostering communication between disciplines. Engaging public speaker and precise and thoughtful writer. Trained agile project manager, product owner, and mental health first aider.
+Skilled facilitator and workshop leader. Empathetic communicator and consensus-builder. [Glue person](https://www.linkedin.com/pulse/glue-people-one-most-desired-job-market-enza-artino/). Adept at communicating with creative, management, and engineering staff on their own terms and fostering communication between disciplines. Engaging public speaker and precise and thoughtful writer. Trained Agile Project Manager, Product Owner, and Mental Health First Aider.
 
 ## Technical skills
 
@@ -44,7 +44,7 @@ As a technologist, I've built prototypes on [my own and other projects](https://
 As a researcher, I've [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating the findings of our projects, and I've recently been building a practise in futures and foresight based on long-standing research interests.
 
 ### The Freelance Years
-#### 2008 — 2016
+#### 2008 — 2016 (or so)
 
 In 2008, my instincts were leading me to the iPhone as the next platform where interesting creative work was happening. Over the next few years I worked on freelance projects as a creative technologist in Flash and iOS, including the [first app to be nominated for a TV BAFTA](https://www.telegraph.co.uk/technology/mobile-phones/8475033/Malcolm-Tucker-iPhone-app-nominated-for-Bafta.html) and Björk's _Biophilia_ '[app album](https://en.wikipedia.org/wiki/Biophilia_(album)#App)'.
 
@@ -53,11 +53,11 @@ This time was also marked by artistic collaborations. Highlights include work wi
 Sometimes these threads come together. In 2013, I collaborated on [a magical talking throne](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace. In 2019, I [investigated technologies](https://motherultimate.com/projects/theatre) to track audiences and create personalised moments during a show with legendary immersive theatre company Punchdrunk.
 
 ### The Design Agency Years
-#### 2004 — 2018
+#### 2004 — 2008
 
-I started my London agency career at Tonic (now defunct) in 2004, where I made Flash microsites. I moved on to [Preloaded](https://www.preloaded.com) in 2004, where I continued to build Flash experiences and games. I learned the craft of creative software development during these years, and gained an education in agency-standard visual design.
+I started my London agency career at Tonic (now defunct) in 2004, where I made Flash microsites. I moved on to [Preloaded](https://www.preloaded.com) in 2008, where I continued to build Flash experiences and games. I learned the craft of creative software development during these years, and gained an education in agency-standard visual design.
 
-Highlights include [Launchball](https://preloaded.com/work/launchball/) which eventually racked up over 10 million plays and won a slew of awards including Best in Show and Best Game at SXSWi 2008 and Technical Excellence at Flash in the Can.   
+Highlights include [Launchball](https://preloaded.com/work/launchball/), which racked up over 10 million plays and won a slew of awards — including, in 2008, Best in Show and Best Game at SXSWi and Technical Excellence at Flash in the Can.   
 
 ## Education
 ### BA (Hons) Media Production, University of Lincoln
