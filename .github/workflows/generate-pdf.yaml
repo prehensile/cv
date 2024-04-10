@@ -6,12 +6,10 @@ jobs:
     steps:
       - uses: browser-actions/setup-chrome@v1
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
       - run: npm ci
       - run: npm run build
-      - name: Archive generated PDF
-        uses: actions/upload-artifact@v4
-        with:
-          name: generated-pdf
-          path: cv.pdf
+      - run: git add cv.pdf
+      - run: git commit -m "github actions generated PDF on `date +%Y-%m-%dT%H:%M:%S`"
+      - run: git fetch origin master
+      - run: git push origin HEAD:master
