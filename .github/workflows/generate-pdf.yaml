@@ -10,6 +10,9 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: git add cv.pdf
-      - run: git commit -m "github actions generated PDF on `date +%Y-%m-%dT%H:%M:%S`"
+      - run: 
+          git config --local user.name actions-user
+          git config --local user.email "actions@github.com"
+          git commit -m "github actions generated PDF on `date +%Y-%m-%dT%H:%M:%S`"
       - run: git fetch origin master
       - run: git push origin HEAD:master
