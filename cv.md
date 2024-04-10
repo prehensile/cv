@@ -3,9 +3,8 @@
 - me@prehensile.co.uk
 - [prehensile.co.uk](https://prehensile.co.uk/)
 - [linkedin.com/in/henrycooke](https://www.linkedin.com/in/henrycooke/)
+
 ## Team lead, researcher, creative technologist.
-
-
 
 #### Glue person, consensus-builder, facilitator. Tinkerer, prototyper, committed generalist. Emerging futurist. Data science lab assistant. AI whisperer.
 
@@ -44,7 +43,7 @@ As a producer, I've designed and led prototyping projects to explore emerging in
 
 As a technologist, I've built prototypes on [my own and other projects](https://www.bbc.co.uk/rd/people/henry-cooke?Type=Projects&Decade=All) to get a practitioner's feel for technologies and their possibilities.
 
-As a researcher, I've [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating the findings of our projects, and I've recently been building a practise in futures and foresight based on long-standing research interests.
+As a researcher, I've [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating the findings of our projects, and I've recently been [building](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures) a practise in futures and [foresight](https://www.bbc.co.uk/rd/blog/2023-10-projections-things-are-not-normal) based on long-standing research interests.
 
 ### The Freelance Years
 #### 2008 — 2016 (or so)
